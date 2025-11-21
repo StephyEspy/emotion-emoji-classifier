@@ -1,0 +1,23 @@
+# Virtual environment
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# macOS garbage
+.DS_Store
+
+# Data
+data/processed/
+*.csv
+*.pt
+
+# IDE garbage
+.vscode/
+*.swp
+
